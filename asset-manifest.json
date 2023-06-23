@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Nutricipe/static/css/main.82fca3bc.css",
+    "main.js": "/Nutricipe/static/js/main.d8324639.js",
+    "static/media/food.jpeg": "/Nutricipe/static/media/food.7024733e765a12650a23.jpeg",
+    "index.html": "/Nutricipe/index.html",
+    "main.82fca3bc.css.map": "/Nutricipe/static/css/main.82fca3bc.css.map",
+    "main.d8324639.js.map": "/Nutricipe/static/js/main.d8324639.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82fca3bc.css",
+    "static/js/main.d8324639.js"
+  ]
+}
