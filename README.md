@@ -1,43 +1,70 @@
-# Nutricipe
-Recipe Generator based on selected food  
+# Getting Started with Create React App
 
-## Description
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This app is our Recipe Generator Website. When you enter a food of your choice into the search bar, it brings up recipes, along with calorie intake and a delightful inspirational quote! 
-Having to pick a new meal everyday can make it hard to come up with new things to try so this eliminates the guess work! Just type in any food you want, and a bunch of recipes will pop up for you to choose from that will include Calories, Cuisine Type, Ingredients and a preview of the delicious meal you will be consuming! 
+## Available Scripts
 
-On top of all this goodness, you will also receive a inspirational quote to brighten your day! 
+In the project directory, you can run:
 
-## How to Use
+### `npm start`
 
-When you are on the homepage, simply type the food you are looking to get recipes for into the search bar and you will recieve 
-a inspirational quote followed by various recipes for your item. 
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-If you are looking for information about our website, push the "About" button in our nav bar to be brought to a section explaining
-all about it! 
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
+### `npm test`
 
-## Screenshot
- ![screen](./assets/Images/first.png)
-![screen](./assets/Images/Second.png)
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-## Technology Used 
-Front End 
+### `npm run build`
 
-* HTML
-* CSS
-* JavaScipt
-* API's
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-## API's Used 
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-* https://www.edamam.com/
-* https://github.com/lukePeavey/quotable
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-## Our Team
+### `npm run eject`
 
-* Hunter Wilson - HTML, APIs, JavaScript, Project Board
-* Lacey Angarita - Repo, Project Board, CSS, HTML & README
-* Cam Malone - Local Storage, JavaScript, Built recipe card table in HTML & built a function to display info from API
-* Kingsley Onyedeke - Recipe Cards
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
